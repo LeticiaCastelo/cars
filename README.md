@@ -6,7 +6,7 @@ Plataforma de marketplace de carros, com o back-end desenvolvido em Python e Dja
 
 Certifique-se de que você tenha os seguintes requisitos instalados em seu sistema:
 
-- Python (versão recomendada: 3.7 ou superior)
+- Python (versão recomendada: 3.12 ou superior)
 - Django (instalado automaticamente ao seguir as instruções abaixo)
 - Outras dependências listadas no arquivo `requirements.txt`
 
