@@ -18,7 +18,6 @@ Com o ambiente virtual ativado, instale as dependências do projeto usando o com
 pip install -r requirements.txt
 ```
 
-
 ## Rodar o projeto
 
 Após instalar as dependências, aplique as migrations no banco de dados com o comando:
