@@ -1,9 +1,12 @@
 <html>
 	<head>
-  		<tittle>MEUS CARROS</tittle>
-  </head>
-  <body>
-  		<h1>Carros da Castelo Capital</h1>
-  		<h3>Sob responsabilidade de Letícia Castelo</h3>
-  </body>
-</html
+		<title>MEUS CARROS</title>
+	</head>
+	{% block content %}
+		<body>
+			{% for car in cars %}
+				<h3>{{ car.brand }} - {{ car.model }} - {{ car.factory_year }}</h3>
+			{% endfor %}
+		</body>
+	{% endblock %}
+</html>
