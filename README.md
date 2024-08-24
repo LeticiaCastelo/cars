@@ -1,5 +1,4 @@
 # Cars
-
 Plataforma de marketplace de carros, com o back-end desenvolvido em Python e Django, e o front-end em JavaScript, HTML e CSS.
 
 ## Requisitos
