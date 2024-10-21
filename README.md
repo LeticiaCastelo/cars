@@ -1,6 +1,6 @@
 # Cars
 ### Status: Em andamento. 
-Plataforma de marketplace de carros, com o back-end desenvolvido em Python e Django, e o front-end desenvolvido em HTML e CSS.
+Sistema Web para gestão de revenda de carros, com o back-end desenvolvido em Python e Django, e o front-end desenvolvido em HTML e CSS.
 
 ## Requisitos
 
